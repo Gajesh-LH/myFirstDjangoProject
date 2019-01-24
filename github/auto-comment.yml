@@ -1,0 +1,33 @@
+# Comment to a new issue.
+issueOpened: >
+  CheckList for Code Quality:-
+
+  Server Side:
+  - File structure
+  - Api Design (Unit function, Sentry Exception, Access etc)
+  - User side sync Response Handling
+  - Use Common method for response
+  - Query Optimization
+  - Variable and function name 
+  - No * import
+  - No print()
+
+  Client Side:
+
+  - Use ES6
+  - Component Size < 500 Line
+  - Initialize DefaultProps and state
+  - Create Service method for Ajax Call 
+  - Variable and function name 
+  - Not Edit Reusable Component
+  - Loaders and Async Response Handling
+  - Click event handling
+  - No Console.log
+  - Reduce Api Call Using Redux
+  - Self state handling of Component
+ 
+
+pullRequestOpened: >
+  Thank your for raising your pull request.
+
+  Please make sure you have followed our contributing guidelines. We will review it as soon as possible
